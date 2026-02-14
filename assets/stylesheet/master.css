@@ -153,12 +153,13 @@ main {
                     display: flex;
                     flex-wrap: wrap;
                     margin-bottom: 60px;
-
+                    
                     >* {
                         text-transform: capitalize;
                     }
-
+                    
                     >figure {
+                        cursor: pointer;
                         width: 100%;
                         height: 80%;
                         position: relative;
