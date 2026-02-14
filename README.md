@@ -17,7 +17,7 @@ Originally built as a desktop-only concept, this project has been recently refac
 
 ### 🔗 Live Demo
 
-[View Live Demo](https://ftmdhn.github.io/cafe-landing-page/)
+[View Live Demo](https://ftmdhn.github.io/portfolio-website-template/)
 
 <br>
 
