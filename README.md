@@ -1,21 +1,71 @@
-# Project-1
+#  Visual Designer Portfolio (template)
 
-**If you have a lot of information to display on your site, why don't you use my accordion menu**
+A premium, dark-themed portfolio for visual designers and creative directors.
+This project focuses on bold typography, modern layout structures, and high-end visual hierarchy.
 
-![view1](https://github.com/user-attachments/assets/6789665b-97e4-437d-8846-3f34839984db)
+<br>
 
-![view2](https://github.com/user-attachments/assets/8f097017-5f84-436b-b344-e980b3f4d874)
 
-- 🐾 [Demo Project](https://ftmdhn.github.io/project-1/)
+**Latest Update: Full Responsiveness**  
+Originally built as a desktop-only concept, this project has been recently refactored to be fully responsive.
 
-- 👩‍💻 Developed by Fatemeh Dehghani 
+- Improved layout adaptability using CSS Flexbox.
+- Optimized typography and spacing for seamless viewing on mobile and tablet devices.
+- Enhanced navigation for touch interfaces.
 
-- 🕜 Created - 2024-07-29
+<br>
 
-- Technologies Used - Html , css , js
+### 🔗 Live Demo
 
-- Hooks Used : useState 
+[View Live Demo](https://ftmdhn.github.io/cafe-landing-page/)
 
-- Role - Frontend
+<br>
 
-- How to reach me : with my [instagram](https://www.instagram.com/ftm.dehgni/) and [linkedin](https://www.linkedin.com/in/fatemeh-dehghani-060973314/)
+###  Technologies Used
+
+ HTML5  
+ CSS3   
+ Responsive Web Design (RWD)  
+
+<div>
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML" />
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/>
+</div>
+
+<br>
+
+### 📸 Preview
+
+<br>
+
+**💻 Desctop View** <br>
+
+<img width="1866" height="865" alt="portfolio-1" src="https://github.com/user-attachments/assets/2eaeb6e7-57e1-4bd8-bfc1-bfe57ae78684" />
+
+
+<br><br>
+
+<img width="1859" height="867" alt="portfolio-2" src="https://github.com/user-attachments/assets/fb2bea41-af7d-437d-ba2c-157c50a3d0d8" />
+
+
+<br><br>
+
+**📱 Mobile View (Newly Added!)** <br>
+
+<p align="center">
+
+  <img width="250" height="600" alt="iPhone-13-PRO-" src="https://github.com/user-attachments/assets/154d57cb-a926-4982-bf92-73254d6c28af" />
+
+</p>
+
+<br><br>
+
+## 👩‍💻 Developer
+
+**Fatemeh Dehghani**   
+  
+  👤 GitHub: https://github.com/FtmDhn  
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/fatemeh-dehghani-060973314/)  [![Instagram](https://img.shields.io/badge/Instagram-Follow-red)](https://www.instagram.com/ftm.dehgni/)
